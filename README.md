@@ -4,20 +4,25 @@ This is a web application built using React.js that utilizes the OpenAI API thro
 
 **#Technologies Used**
 
-React.js
-OpenAI API through RapidAPI
-Vite
-Tailwind CSS
-Redux Toolkit
+1.React.js
+
+2.OpenAI API through RapidAPI
+
+3.Vite
+
+4.Tailwind CSS
+
+5.Redux Toolkit
 
 **#Requirements**
 
-Node.js v14.x or higher
-npm
+1.Node.js v14.x or higher
+2.npm
 
 **#Installation**
 
 Install the required packages:
+
 npm install
 
 Create a RapidAPI account and subscribe to the OpenAI API.
