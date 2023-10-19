@@ -1,7 +1,9 @@
 # AI_TEXT_SUMMARIZER
+
 This is a web application built using React.js that utilizes the OpenAI API through RapidAPI to summarize large blocks of text into shorter, more manageable chunks. It also allows users to save the history of their previous requests and includes a copy button to easily copy the summary to the clipboard.
 
 **#Technologies Used**
+
 React.js
 OpenAI API through RapidAPI
 Vite
