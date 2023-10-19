@@ -37,7 +37,7 @@ npm run dev
 
 To use the AI-Text-Summariser, open a web browser and navigate to http://localhost:3000. Enter the URL of the article or text you wish to summarize and click the "Summarize" button. The summary will be displayed on the page, along with the option to copy it to the clipboard. The application will also save a record of the previous requests in the history section.
 
-The website can also be viewed on Netlify at https://articlesummariser.netlify.app.
+The website can also be viewed on Netlify at [https://articlesummariser.netlify.app.](https://app.netlify.com/sites/exquisite-kitsune-db51b1/overview)
 
 **#Customization**
 
